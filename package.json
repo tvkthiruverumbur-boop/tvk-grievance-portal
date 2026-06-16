@@ -1,0 +1,12 @@
+{
+  "name": "tvk-grievance-portal",
+  "version": "1.0.0",
+  "description": "TVK Thiruverumbur Constituency Grievance Portal",
+  "dependencies": {
+    "nodemailer": "^6.9.13",
+    "pdfkit": "^0.15.0"
+  },
+  "engines": {
+    "node": "18"
+  }
+}
